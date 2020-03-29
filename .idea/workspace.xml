@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9588d8b4-e12a-4147-945c-ce4b61bed5ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/StarterContainer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StarterContainer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/StarterContainer/starterReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StarterContainer/starterReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,18 +70,41 @@
       <option name="presentableId" value="Default" />
       <updated>1585486275424</updated>
       <workItem from="1585486277177" duration="261000" />
-      <workItem from="1585487007284" duration="7992000" />
+      <workItem from="1585487007284" duration="9806000" />
     </task>
+    <task id="LOCAL-00001" summary="Redux/Saga/Reselect added">
+      <created>1585501866530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585501866530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Redux/Saga/Reselect added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redux/Saga/Reselect added" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1021" y="198" key="CommitChangelistDialog2" timestamp="1585501816148">
+    <state x="1021" y="198" key="CommitChangelistDialog2" timestamp="1585501866204">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="1021" y="198" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1585501816148" />
+    <state x="1021" y="198" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1585501866204" />
     <state width="939" height="329" key="GridCell.Tab.0.bottom" timestamp="1585501493383">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -104,5 +125,9 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="923" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1585487289428" />
+    <state x="560" y="351" key="Vcs.Push.Dialog.v2" timestamp="1585501930054">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="351" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1585501930054" />
   </component>
 </project>

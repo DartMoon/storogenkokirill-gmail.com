@@ -1,5 +1,5 @@
 const initialState = [
-  'a', 'b', 'c', 'd', 'e', 'f'
+  'a', 'b', 'c', 'd',
 ];
 
 const starterReducer = (state = initialState, action) => {

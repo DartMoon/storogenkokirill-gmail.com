@@ -1,19 +1,17 @@
 import React from 'react';
-import {connect} from "react-redux";
+import {useSelector} from "react-redux";
 
 import {itemsSelector} from "./selectors";
 import Initial from "../../components/Initial";
 
-const SomeContainer = ({items}) => {
+const SomeContainer = () => {
+  const {items} = useSelector(state => ({
+    items: itemsSelector(state),
+  }));
+
   return (
     <Initial items={items}/>
   );
 };
 
-const mapStateToProps = (state) => {
-  return {
-    items: itemsSelector(state),
-  }
-};
-
-export default connect(mapStateToProps, null)(SomeContainer);
+export default SomeContainer;
