@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9588d8b4-e12a-4147-945c-ce4b61bed5ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/StarterContainer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StarterContainer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/StarterContainer/starterReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StarterContainer/starterReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/rootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585486275424</updated>
       <workItem from="1585486277177" duration="261000" />
-      <workItem from="1585487007284" duration="9806000" />
+      <workItem from="1585487007284" duration="12046000" />
+      <workItem from="1585558683775" duration="157000" />
     </task>
     <task id="LOCAL-00001" summary="Redux/Saga/Reselect added">
       <created>1585501866530</created>
@@ -90,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -105,22 +110,22 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="1021" y="198" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1585501866204" />
-    <state width="939" height="329" key="GridCell.Tab.0.bottom" timestamp="1585501493383">
+    <state width="939" height="329" key="GridCell.Tab.0.bottom" timestamp="1585558671859">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="939" height="329" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1585501493383" />
-    <state width="939" height="329" key="GridCell.Tab.0.center" timestamp="1585501493382">
+    <state width="939" height="329" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1585558671859" />
+    <state width="939" height="329" key="GridCell.Tab.0.center" timestamp="1585558671858">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="939" height="329" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1585501493382" />
-    <state width="939" height="329" key="GridCell.Tab.0.left" timestamp="1585501493382">
+    <state width="939" height="329" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1585558671858" />
+    <state width="939" height="329" key="GridCell.Tab.0.left" timestamp="1585558671857">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="939" height="329" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1585501493382" />
-    <state width="939" height="329" key="GridCell.Tab.0.right" timestamp="1585501493383">
+    <state width="939" height="329" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1585558671857" />
+    <state width="939" height="329" key="GridCell.Tab.0.right" timestamp="1585558671859">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="939" height="329" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1585501493383" />
+    <state width="939" height="329" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1585558671859" />
     <state x="923" y="250" key="SettingsEditor" timestamp="1585487289428">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
